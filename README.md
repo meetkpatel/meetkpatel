@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Meet Patel</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - :muscle: I’m skilled in - JavaScript (ES5 and ES6), HTML5, CSS3, React.js, Node.js, PostgreSQL, SQL
